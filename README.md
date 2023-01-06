@@ -1,4 +1,4 @@
-Apna Ghar is a web page which is used by people in Renovating their houses .
+Apna Ghar is a web page which helps people in Renovating their house.
 
 The following technologies will be used to make this application -
 1) HTML
